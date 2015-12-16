@@ -1,2 +1,2 @@
 # iss-tracker
-Matlab project that tracks the location of the iss. Uses Urlread2 and jsonlab libraries.
+Project that provides augmented reality tracking of the location of the iss. Uses Urlread2 and jsonlab and SGP4 libraries.
